@@ -1,0 +1,10 @@
+January:1:Monday:12:00-13:00:Cool Stuff
+January:7:Friday:12:00-14:00:Hair Cut
+February:28:Monday:00.01-07:00:Arianas Birthday
+March:13:Monday:15:00-16:00:Call Diana
+April:16:Thursday:12:00-13:00:Miss you
+April:1:Friday:14:00-15:00:April Fools
+July:11:Monday:12:00-13:00:Coreys Birthday
+August:13:Saturday:00:01-12:00:Two Year
+August:1:Monday:16:00-17:00:My Birthday
+October:10:Monday:19:00-23:00:Call Aaron
